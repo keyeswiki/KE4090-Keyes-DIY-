@@ -14,6 +14,8 @@ KidsBlock是一款面向儿童和初学者的图形化编程工具，旨在让�
 
 ![10](./media/10.jpeg)
 
+![77199b3c9ce750e3c4a5c848a417d9d6](./media/77199b3c9ce750e3c4a5c848a417d9d6.jpg)
+
 ## 3.代码
 
 1.在事件里拖出Arduino启动模块。
